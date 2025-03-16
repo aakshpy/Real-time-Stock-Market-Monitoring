@@ -11,7 +11,7 @@
 
 ---
 
-## 🔮 **Planned Future Features**  
+##  **Planned Future Features**  
 🔹 **Gemini AI Integration** – Forecast stock trends & provide **investment recommendations**.  
 🔹 **Dark/Light Mode Toggle** – Improve UI experience.  
 🔹 **Auto-Refresh Option** – Refresh stock data at regular intervals.  
