@@ -46,7 +46,7 @@ streamlit run RTSMM.py
 
 ---
 
-### **💙 Thank you for using my application!** 🚀  
+### **💙 Thank you for using my application!**
 
 ---
 
