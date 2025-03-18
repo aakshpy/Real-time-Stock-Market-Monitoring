@@ -21,7 +21,7 @@
 ---
 
 ## ⚠️ **What to look out for:**  
-❌ **Stock symbols for NSE Stock exchange is not supported as of now.**
+❌ **Stock symbols for NSE Stock Exchange are not supported as of now.**  
 ❌ **API Rate Limits** – Alpha Vantage limits free users to **5 API calls per minute**, so exceeding this limit causes errors.  
 ❌ **Timeout Handling** – Currently, the app **does not handle** timeout errors properly.  
 ❌ **Slow Data Retrieval** – Fetching data **may take longer for uncached stock symbols**.  
