@@ -13,6 +13,7 @@
 
 ##  **Planned Future Features**  
 🔹 **Gemini AI Integration** – Forecast stock trends & provide **investment recommendations**.  
+🔹 **Integration of NSE API** – Support for Indian stocks. 
 🔹 **Dark/Light Mode Toggle** – Improve UI experience.  
 🔹 **Auto-Refresh Option** – Refresh stock data at regular intervals.  
 🔹 **Sidebar with Extra Features** – Display company profiles, market capital, and more.  
@@ -20,6 +21,7 @@
 ---
 
 ## ⚠️ **What to look out for:**  
+❌ **Stock symbols for NSE Stock exchange is not supported as of now.**
 ❌ **API Rate Limits** – Alpha Vantage limits free users to **5 API calls per minute**, so exceeding this limit causes errors.  
 ❌ **Timeout Handling** – Currently, the app **does not handle** timeout errors properly.  
 ❌ **Slow Data Retrieval** – Fetching data **may take longer for uncached stock symbols**.  
