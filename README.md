@@ -13,7 +13,7 @@
 
 ##  **Planned Future Features**  
 🔹 **Gemini AI Integration** – Forecast stock trends & provide **investment recommendations**.  
-🔹 **Integration of NSE API** – Support for Indian stocks. 
+🔹 **Integration of NSE API** – Support for Indian stocks.  
 🔹 **Dark/Light Mode Toggle** – Improve UI experience.  
 🔹 **Auto-Refresh Option** – Refresh stock data at regular intervals.  
 🔹 **Sidebar with Extra Features** – Display company profiles, market capital, and more.  
