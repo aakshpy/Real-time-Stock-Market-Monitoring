@@ -5,14 +5,14 @@
 ---
 
 ## ✅ **What is expected:**  
+✔️ **Gemini AI Integration** – Forecast stock trends & provide **investment recommendations**.
 ✔️ Fetches **real-time stock data** for user-defined stock symbols.  
 ✔️ **Interactive stock market trend visualization** using **Plotly**.  
 ✔️ **Optimized performance** with **cached API requests**.  
 
 ---
 
-##  **Planned Future Features**  
-🔹 **Gemini AI Integration** – Forecast stock trends & provide **investment recommendations**.  
+##  **Planned Future Features**    
 🔹 **Integration of NSE API** – Support for Indian stocks.  
 🔹 **Dark/Light Mode Toggle** – Improve UI experience.  
 🔹 **Auto-Refresh Option** – Refresh stock data at regular intervals.  
