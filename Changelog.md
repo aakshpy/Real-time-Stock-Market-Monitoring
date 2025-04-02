@@ -35,3 +35,7 @@
 
 ---
 
+## Version 1.1 (RTSMM V2 - `RTSMM_V2.py`)
+- Integrated **Gemini to provide stock predictions and investment recommendations.**
+- Improved **error handling.**
+- UI Enhancements.
